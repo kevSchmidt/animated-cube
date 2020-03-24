@@ -1,2 +1,2 @@
 # Cube
-![](./image/readme.png)
+![](./images/readme.png)
